@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Automating the setup of a basic web server environment 
+#By Musayyib Yusuf 
+
 # Redirect all output to a log file
 exec &>> logfile.log
 
